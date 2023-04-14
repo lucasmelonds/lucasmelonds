@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Hey, me chamo Lucas e sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFRN.
+  Atualmente estou estudando as tecnologias de Front-End.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, Javascript e React</strong>
+</p>
+
+<p align="left">
+  💌 Para entrar em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasmelonds@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmelonds/" /></a>
+</p>  
