@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hey, me chamo Lucas e sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFRN.
-  Atualmente estou estudando as tecnologias de Front-End.
+  Hey, me chamo Lucas e estou graduando no curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFRN.
+  Atualmente estou estudando as tecnologias Front-End.
 </p>
 
 <p align="left">
