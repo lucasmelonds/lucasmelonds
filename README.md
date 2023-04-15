@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🌱 Principais linguagens: <br><br>
+  🌱 Principais linguagens/tecnologias: <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  😄 Outras linguagens que já utilizei em estudos: <br><br>
+  😄 Outras linguagens/tecnologias que já utilizei em estudos: <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40" />
