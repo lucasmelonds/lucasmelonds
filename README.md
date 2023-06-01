@@ -52,5 +52,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" width="78"  /></a>
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasmelonds&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelonds&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
